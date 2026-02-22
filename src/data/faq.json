@@ -1,0 +1,32 @@
+[
+    {
+        "num": "01",
+        "question": "What services do you offer?",
+        "answer": "I specialize in premium web design, creative development, and interactive experiences tailored to your brand's unique needs."
+    },
+    {
+        "num": "02",
+        "question": "What is your typical turnaround time?",
+        "answer": "Depending on the scope, most projects take between 4 to 8 weeks from initial strategy to final launch."
+    },
+    {
+        "num": "03",
+        "question": "Do you only work in Framer?",
+        "answer": "While I love Framer for rapid prototyping and certain sites, I primarily build custom solutions using Next.js and React for maximum performance and scalability."
+    },
+    {
+        "num": "04",
+        "question": "Can you handle both design and build?",
+        "answer": "Yes, I offer end-to-end services. I can take your project from the initial wireframes and UI/UX design all the way through development and deployment."
+    },
+    {
+        "num": "05",
+        "question": "Do you offer brand strategy too?",
+        "answer": "Absolutely. A strong web presence starts with a solid brand foundation. I help clarify your message and visual identity before we start designing the website."
+    },
+    {
+        "num": "06",
+        "question": "What's your process like?",
+        "answer": "My process is divided into Discovery, Strategy, Design, Development, and Launch. I prioritize transparent communication and frequent updates throughout."
+    }
+]

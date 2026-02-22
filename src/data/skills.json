@@ -1,0 +1,35 @@
+[
+    {
+        "category": "Frontend",
+        "items": [
+            "React",
+            "Next.js",
+            "TypeScript",
+            "Tailwind CSS",
+            "Framer Motion",
+            "Vue.js"
+        ]
+    },
+    {
+        "category": "Backend",
+        "items": [
+            "Node.js",
+            "Express",
+            "Python",
+            "Django",
+            "PostgreSQL",
+            "MongoDB"
+        ]
+    },
+    {
+        "category": "Tools & Design",
+        "items": [
+            "Git",
+            "Docker",
+            "AWS",
+            "Figma",
+            "Adobe XD",
+            "Vercel"
+        ]
+    }
+]

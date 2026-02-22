@@ -1,0 +1,94 @@
+[
+    {
+        "id": "1",
+        "slug": "aura-design-system",
+        "title": "Aura Design System",
+        "description": "A comprehensive design system built for modern web applications with 200+ components.",
+        "longDescription": "Aura is a design system born from the need for consistency across a growing product ecosystem. It provides a shared language between designers and developers, featuring 200+ React components, a comprehensive token system, and thorough documentation. Built with accessibility in mind, every component meets WCAG 2.1 AA standards.",
+        "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070&auto=format&fit=crop",
+        "tags": [
+            "React",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "features": [
+            "200+ production-ready components",
+            "Dark and light theme support",
+            "Full TypeScript coverage",
+            "Comprehensive Storybook documentation",
+            "WCAG 2.1 AA accessible"
+        ],
+        "link": "https://github.com",
+        "liveUrl": "https://example.com",
+        "year": "2024"
+    },
+    {
+        "id": "2",
+        "slug": "nova-dashboard",
+        "title": "Nova Dashboard",
+        "description": "Analytics dashboard with real-time data visualization and dark mode.",
+        "longDescription": "Nova Dashboard is a next-generation analytics platform designed to make data insights accessible and beautiful. Built with Next.js and powered by WebSocket connections for real-time updates, it features interactive charts, customizable widgets, and a fluid dark mode experience that reduces eye strain during those long data sessions.",
+        "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop",
+        "tags": [
+            "Next.js",
+            "Framer Motion",
+            "Recharts"
+        ],
+        "features": [
+            "Real-time data streaming via WebSockets",
+            "Interactive charts with drill-down",
+            "Customizable dashboard layouts",
+            "Export to PDF and CSV",
+            "Role-based access control"
+        ],
+        "link": "https://github.com",
+        "liveUrl": "https://example.com",
+        "year": "2024"
+    },
+    {
+        "id": "3",
+        "slug": "ethereal-ecommerce",
+        "title": "Ethereal E-commerce",
+        "description": "Minimalist online store focused on premium user experience and conversion.",
+        "longDescription": "Ethereal is a premium e-commerce platform designed from the ground up to maximize conversion and delight customers. Every interaction, from product browsing to checkout, has been optimized for speed and simplicity. The Stripe integration handles payments seamlessly, while Prisma ORM ensures rock-solid data management.",
+        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2015&auto=format&fit=crop",
+        "tags": [
+            "Stripe",
+            "Next.js",
+            "Prisma"
+        ],
+        "features": [
+            "One-click checkout with Stripe",
+            "Product search with instant results",
+            "Inventory management dashboard",
+            "Order tracking and notifications",
+            "Mobile-first responsive design"
+        ],
+        "link": "https://github.com",
+        "liveUrl": "https://example.com",
+        "year": "2023"
+    },
+    {
+        "id": "4",
+        "slug": "nexus-ai-studio",
+        "title": "Nexus AI Studio",
+        "description": "Generative AI wrapper application with conversational interface and prompt management.",
+        "longDescription": "Nexus AI Studio is a polished interface for interacting with large language models. It features a conversation-first design, prompt templates, and a library system for saving and sharing AI workflows. The architecture supports multiple LLM providers while keeping the user experience unified and intuitive.",
+        "image": "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1965&auto=format&fit=crop",
+        "tags": [
+            "OpenAI",
+            "React",
+            "Node.js"
+        ],
+        "features": [
+            "Multi-model support (GPT-4, Claude, Gemini)",
+            "Prompt template library",
+            "Conversation branching and history",
+            "Token usage analytics",
+            "Team collaboration features"
+        ],
+        "link": "https://github.com",
+        "liveUrl": "https://example.com",
+        "year": "2023"
+    }
+]

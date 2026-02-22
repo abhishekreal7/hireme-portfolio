@@ -1,0 +1,68 @@
+{
+    "experience": [
+        {
+            "id": "1",
+            "role": "Senior Frontend Engineer",
+            "company": "Vercel",
+            "period": "2023 – Present",
+            "description": "Led the frontend engineering team to build scalable React applications. Improved web performance by 40% and established a comprehensive design system used across 12 products.",
+            "highlights": [
+                "Architected and shipped a component library used by 50+ engineers",
+                "Reduced page load times by 40% through code-splitting and edge caching",
+                "Led migration from Pages Router to App Router for 8 production apps",
+                "Mentored 4 junior developers through pair programming sessions"
+            ]
+        },
+        {
+            "id": "2",
+            "role": "Full Stack Developer",
+            "company": "Stripe",
+            "period": "2020 – 2023",
+            "description": "Developed and maintained full-stack e-commerce platforms using Next.js, Node.js, and PostgreSQL. Integrated payment gateways and optimized server response times by 3x.",
+            "highlights": [
+                "Built checkout flows handling $2M+ in monthly transactions",
+                "Designed RESTful APIs serving 10K+ requests per second",
+                "Implemented real-time dashboards with WebSocket connections",
+                "Reduced API response times from 800ms to 120ms"
+            ]
+        },
+        {
+            "id": "3",
+            "role": "UI/UX Designer",
+            "company": "Figma",
+            "period": "2018 – 2020",
+            "description": "Designed user-centric interfaces for mobile and web apps. Conducted user research, created interactive prototypes, and improved conversion rates by 25%.",
+            "highlights": [
+                "Redesigned onboarding flow, increasing activation by 25%",
+                "Created design system with 120+ reusable components",
+                "Conducted 40+ user interviews to inform product decisions",
+                "Collaborated with engineering to ensure pixel-perfect implementation"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "id": "1",
+            "degree": "B.S. Computer Science",
+            "institution": "Stanford University",
+            "period": "2014 – 2018",
+            "description": "Focused on Human-Computer Interaction and Software Engineering. Dean's List all 8 semesters.",
+            "highlights": [
+                "Capstone project: AI-powered design tool (awarded Best in Show)",
+                "Teaching assistant for CS 193X: Web Programming Fundamentals",
+                "President of the Design & Technology Club"
+            ]
+        },
+        {
+            "id": "2",
+            "degree": "UX Design Certificate",
+            "institution": "Google",
+            "period": "2019",
+            "description": "Professional certification covering user research, wireframing, prototyping, and usability testing.",
+            "highlights": [
+                "Completed 7-course specialization with distinction",
+                "Portfolio project selected for Google's showcase gallery"
+            ]
+        }
+    ]
+}
